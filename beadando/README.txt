@@ -4,3 +4,5 @@
 4. Egy dataGridView-ban megjelennek a releváns CovidRecord-ok
 5. Ezeket ki lehet exportálni egy CSV fájlba 3/A
 6. A dataGridView automatikusan görgeti magát lefele, ha bepipáljuk az AutoScroll CheckBox-ot 4/D
+
+Megjegyzések: A beadandóm elkészítését a VersionControl repositoryban végeztem, és csak a végleges változatott vittem át a IRF_Project repo-ba, ezért van ilyen kevés commit. Ha meg akarja tekinteni a projekt alakulásának lépéseit, akkor a feketegabor/VersionContol repoban keresse a commitokat.
